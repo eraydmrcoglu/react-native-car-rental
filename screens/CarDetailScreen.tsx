@@ -110,7 +110,7 @@ const CarDetailScreen = () => {
             <Info
               icon="people-outline"
               label="Capacity"
-              value={`${car.seats} kişi`}
+              value={`${car.seats} Person`}
             />
           </View>
 
